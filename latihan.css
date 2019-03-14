@@ -1,0 +1,81 @@
+body{
+    width:100%;
+    margin:0;
+    padding:0;
+    float:left;
+}
+
+.bg{
+    border:1px solid black;
+    border-radius:15px;
+    background-color:#1affc6;
+    width:40%;
+    margin-left:28%;
+    margin-top:5%;
+    text-align:center;
+    padding:2%;
+    float:left;
+}
+
+.content{
+    width:95%;
+    padding:2%;
+    float:left;
+}
+
+.foto{
+    border:1px solid black;
+    padding:1% 2%;
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+.form{
+    width:73%;
+    float:right;    
+}
+
+.form label{
+    float:left;
+    text-align:left;
+    width:40%;
+}
+
+.form label:hover{
+    color:green;
+}
+.form input:hover{
+    color:green;
+}
+
+.form input{
+    width:55%;
+    text-align:center;
+    border-radius:10px;
+    background-color:#ccfff2;
+}
+
+.narasi{
+    background-color:#99ffe6;
+    border-radius:10px;
+    width:100%;
+    margin-top:2%;
+    float:left;
+}
+
+.pendik{
+    float:left;
+    text-align:left;
+}
+
+.sub-pendik{
+    padding:1%;
+    float:left;
+}
+
+.gambar{
+    width:20%;
+    height:75px;
+    float:left;
+}
